@@ -8,7 +8,7 @@
 
 import Foundation
 
-let BASE_URL: String = "http://localhost:8000/"
+let BASE_URL: String = "https://fierce-badlands-97518.herokuapp.com"
 let CLIENT_ID: String = "PpSACYWkYPEfdugY7JUvyKsTJ04LPvPV1eFNa83E"
 let CLIENT_SECRET: String = "ZFPYyZ8s3b2velpQ1KzkCh8R2Ily8Sx2HEdtgDhSQAj3PsOlBsVIJVFYsouys6vs2JBXmroJF9JqFAYHAEEHi444Vr0YOiGTgCiXowUm6INJMZ6yH6nWR3la3bYiKL9T"
 
