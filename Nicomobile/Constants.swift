@@ -9,8 +9,8 @@
 import Foundation
 
 let BASE_URL: String = "https://fierce-badlands-97518.herokuapp.com"
-let CLIENT_ID: String = "PpSACYWkYPEfdugY7JUvyKsTJ04LPvPV1eFNa83E"
-let CLIENT_SECRET: String = "ZFPYyZ8s3b2velpQ1KzkCh8R2Ily8Sx2HEdtgDhSQAj3PsOlBsVIJVFYsouys6vs2JBXmroJF9JqFAYHAEEHi444Vr0YOiGTgCiXowUm6INJMZ6yH6nWR3la3bYiKL9T"
+let CLIENT_ID: String = "vcGYRppCybEyf3pSIqEifDcdi8XE4LPnRsKmDmtB"
+let CLIENT_SECRET: String = "oWKwBmHWRwiFVNWvOP3p6pb6A5puEI3jRYpfmVVKFF7BamqRZrsg3aDDWLPcUm8hcz2JEeOiY8jDW3cxRXTlzJaEBHNNxzM51an8T4436qHqgIZhxpZrrOnRxhDOJD25"
 
 let USERTYPE_CUSTOMER = "customer"
 let USERTYPE_DRIVER = "driver"
